@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "482700451C75C95E00FCD0F7"
-               BuildableName = "helloWorld"
-               BlueprintName = "helloWorld"
-               ReferencedContainer = "container:helloWorld.xcodeproj">
+               BlueprintIdentifier = "48C379281C7C0714006CD3C1"
+               BuildableName = "HelloWorld"
+               BlueprintName = "HelloWorld"
+               ReferencedContainer = "container:HelloWorld.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "482700451C75C95E00FCD0F7"
-            BuildableName = "helloWorld"
-            BlueprintName = "helloWorld"
-            ReferencedContainer = "container:helloWorld.xcodeproj">
+            BlueprintIdentifier = "48C379281C7C0714006CD3C1"
+            BuildableName = "HelloWorld"
+            BlueprintName = "HelloWorld"
+            ReferencedContainer = "container:HelloWorld.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "482700451C75C95E00FCD0F7"
-            BuildableName = "helloWorld"
-            BlueprintName = "helloWorld"
-            ReferencedContainer = "container:helloWorld.xcodeproj">
+            BlueprintIdentifier = "48C379281C7C0714006CD3C1"
+            BuildableName = "HelloWorld"
+            BlueprintName = "HelloWorld"
+            ReferencedContainer = "container:HelloWorld.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "482700451C75C95E00FCD0F7"
-            BuildableName = "helloWorld"
-            BlueprintName = "helloWorld"
-            ReferencedContainer = "container:helloWorld.xcodeproj">
+            BlueprintIdentifier = "48C379281C7C0714006CD3C1"
+            BuildableName = "HelloWorld"
+            BlueprintName = "HelloWorld"
+            ReferencedContainer = "container:HelloWorld.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
