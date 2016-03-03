@@ -8,29 +8,13 @@
 
 #import <Foundation/Foundation.h>
 
-@interface SimpleClass : NSObject
-- (NSNumber *)sumA:(NSNumber *)a withB:(NSNumber *)b;
-
-@end
-
-@implementation SimpleClass
-
-- (NSNumber *)sumA:(NSNumber *)a withB:(NSNumber *)b{
-    int num1 = [a intValue];
-    int num2 = [b intValue];
-    int res = num1 - num2;
-    NSNumber *result = [NSNumber numberWithInt:res];
-    return result;
+int sub(int a, int b){
+    NSLog(@"The resulf of subtraction is: %i",a - b);
+    return 0;
 }
 
-@end
-
 int main(int argc, const char * argv[]) {
-    SimpleClass *simpleClass = [[SimpleClass alloc]init];
-    NSNumber *a = [NSNumber numberWithInt:15];
-    NSNumber *b = [NSNumber numberWithInt:10];
-    NSNumber *result = [simpleClass sumA:a withB:b];
-    NSLog(@"The resulf of subtraction is: %@",result);
-    return 0;
+    int result;
+    result = sub(20, 10);
 }
 
